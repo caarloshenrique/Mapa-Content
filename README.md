@@ -1,8 +1,6 @@
 # Mapa-Content
 🌎 Esse projeto utiliza Google Maps API para exibição de dados relevantes em mapa makers.
 
-### Home
-
 <img src="/img/home.PNG">
 
 ## Getting Started
