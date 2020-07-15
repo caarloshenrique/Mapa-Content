@@ -14,7 +14,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [API Google Maps](https://developers.google.com/maps/documentation/)
 
 ## :fire: Executando a aplicação
-Execute o arquivo `index.html` localizado na raiz do projeto.
+Execute o arquivo [index.html](/index.html) localizado na raiz do projeto.
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
